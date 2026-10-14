@@ -1,7 +1,7 @@
 (async () => {
   // ========== SETTINGS ==========
   const QUESTIONS_TO_DO = 100;
-  const ALLOW_WRONG_ANSWERS = true;
+  const ALLOW_WRONG_ANSWERS = false;
   const WRONG_ANSWER_EVERY = 5;
 
   const WAIT_LOOP = 80;
